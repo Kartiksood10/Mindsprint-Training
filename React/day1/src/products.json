@@ -1,0 +1,24 @@
+[
+
+{
+    "id":1,
+    "prod_name":"iPhone",
+    "price":100000
+
+},
+
+{
+    "id":2,
+    "prod_name":"iPad",
+    "price":100001
+
+},
+
+{
+    "id":3,
+    "prod_name":"MacBook",
+    "price":100002
+
+}
+
+]
